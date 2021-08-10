@@ -1,4 +1,4 @@
-ar btn_red;
+var btn_red;
 var btn_green;
 
 var r = 0;
@@ -36,5 +36,4 @@ function green_bg()
   g = 255;
   b =0;
 }
-
 
